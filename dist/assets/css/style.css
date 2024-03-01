@@ -1666,6 +1666,11 @@ input:checked + .toggle-bg {
   padding-bottom: 0.75rem;
 }
 
+.py-4 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
 .py-6 {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
@@ -1679,11 +1684,6 @@ input:checked + .toggle-bg {
 .py-\[150px\] {
   padding-top: 150px;
   padding-bottom: 150px;
-}
-
-.py-4 {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
 }
 
 .pt-2 {
